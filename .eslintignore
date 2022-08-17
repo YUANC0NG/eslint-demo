@@ -4,5 +4,4 @@ package-lock.json
 yarn.lock
 *.svg
 *.html
-.cz-config.js
 *.css
